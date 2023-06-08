@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+    background-color: wheat;
+}
+#class{
+    width: 280px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    /* background-color: bisque; */
+   
+}
+#submit{
+    width: 50px;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0px;
+    border: none;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+ul li{
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 20px ;
+    background-color: #eee;
+    transition: 0.2s;
+    list-style: none;
+    padding: 20px;
+    border-color: darkgray;
+}
+.fa-regular{
+    color: green;
+    position: absolute;
+    right: 40px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+.fa-solid{
+    color: red;
+    position: absolute;
+    right: 20px;
+    /* transform: translate(-50%); */
+    cursor: pointer;
+    margin-top: -16px;
+}
