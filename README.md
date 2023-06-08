@@ -1,2 +1,5 @@
-# To-do-List
-To-do lists are a list of tasks that an individual needs to complete or accomplish. Tasks are typically put in order by priority or importance. A to-do list can be written on a piece of paper or by utilizing task management software.
+JavaScript_mini_Projects
+
+
+ In these Repository You can find basic projects for beginners <br>
+ 
